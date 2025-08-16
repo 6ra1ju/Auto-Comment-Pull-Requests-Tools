@@ -67,7 +67,7 @@ Hệ thống được xây dựng với kiến trúc hiện đại, sử dụng 
 
 ## Cấu trúc dự án
 
-* challenge-repo-20250721-035955/
+* Auto-Comment-Pull-Requests-Tools
   * AI_reviewer/
     * main.py               # FastAPI backend
     * github_api.py         # Tương tác với GitHub API
@@ -84,7 +84,7 @@ Hệ thống được xây dựng với kiến trúc hiện đại, sử dụng 
 
 ## Clone dự án
 * git clone <repo-url>
-* cd challenge-repo-20250721-035955
+* cd Auto-Comment-Pull-Requests-Tools
 
 ## Tạo môi trường ảo & cài đặt dependencies
 * Trên MacOS / Linux
