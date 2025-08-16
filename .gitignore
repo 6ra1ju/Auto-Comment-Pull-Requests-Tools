@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+VENV/
+
+# FastAPI specific
+*.log
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.*
+
+# Pytest and testing
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+.pyright/
+
+# Pyre
+.pyre/
+
+# Pydantic AI generated cache
+__pydantic_cache__/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# Logs
+*.log
+
+# Docker
+*.pid
+docker-compose.override.yml
